@@ -14,16 +14,16 @@ It includes the following files:
 - `util.py`: Includes all the utility functions for the physics metrics computations.
 
 ## Training procedure
-![](https://github.com/fpramunno/MAG2MAG/blob/main/algo_training.png)
+![](https://github.com/fpramunno/ldm_superresolution/blob/main/algo_training.png)
 
 ## Inference procedure
-![](https://github.com/fpramunno/MAG2MAG/blob/main/algo_inference.png)
+![](https://github.com/fpramunno/ldm_superresolution/blob/main/algo_inference.png)
 
 ## Example
-![](https://github.com/fpramunno/MAG2MAG/blob/main/example.png)
+![](https://github.com/fpramunno/ldm_superresolution/blob/main/example.png)
 
 ## Latent diffusion model with residuals on MDI
-![](https://github.com/fpramunno/MAG2MAG/blob/main/ldm_crop_zoomed.png)
+![](https://github.com/fpramunno/ldm_superresolution/blob/main/ldm_crop_zoomed.png)
 
 ### Prerequisites
 List of libraries to run the project:
