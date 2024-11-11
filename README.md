@@ -13,8 +13,17 @@ It includes the following files:
 - `physics_param.py`: Script to compute the physics metrics.
 - `util.py`: Includes all the utility functions for the physics metrics computations.
 
-## Examples
-![]()
+## Training procedure
+![](https://github.com/fpramunno/MAG2MAG/blob/main/algo_training.png)
+
+## Inference procedure
+![](https://github.com/fpramunno/MAG2MAG/blob/main/algo_inference.png)
+
+## Example
+![](https://github.com/fpramunno/MAG2MAG/blob/main/example.png)
+
+## Latent diffusion model with residuals on MDI
+![](https://github.com/fpramunno/MAG2MAG/blob/main/ldm_crop_zoomed.png)
 
 ### Prerequisites
 List of libraries to run the project:
