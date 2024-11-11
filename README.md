@@ -7,10 +7,12 @@ The spatial properties of the solar magnetic field are crucial to decoding the p
 ## Introduction
 This repository contains the code for training and testing the "Enhancing Image Resolution in Solar Physics: A Latent Diffusion Model Approach" by F.P. Ramunno et al 2024.
 It includes the following files:
-- `training.py`: The main script for training the model.
+- `training_ldm.py`: The main script for training the latent diffusion res/no_res model.
+- `training_enhance.py`: The main script for training the enhance model.
+- `training_progressive.py`: The main script for training the progressive model.
 - `diffusion.py`: Contains the DDPM class and utility functions.
-- `modules.py`: Includes essential modules and classes used in the model.
-- `physics_param.py`: Script to compute the physics metrics.
+- `modules.py`: Includes essential modules and classes used in the diffusion model.
+- `modules_enhance.py`: Includes essential modules and classes used in the enhance and progressive model.
 - `util.py`: Includes all the utility functions for the physics metrics computations.
 
 ## Training procedure
